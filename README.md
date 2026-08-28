@@ -5,9 +5,11 @@ Public APK releases.
 This repository contains release files only.
 
 =============================================
+
 - Tải bản mới nhất tại đây: https://github.com/luxubuok/luxubustream/releases
 - Báo lỗi tại đây: https://github.com/luxubuok/luxubustream/issues
 - Trao đổi, góp ý, đề xuất tính năng mới,... tại đây: https://github.com/luxubuok/luxubustream/discussions
+  
 =============================================
 
 Lưu ý nếu cài trực tiếp file apk xong mà không thấy trong Android Auto thì phải cài qua KingInstaller do từ Adnroid 13 hay 14 gì đó đã chặn các app cài từ bên ngoài không thông qua CH Play.
