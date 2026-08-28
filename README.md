@@ -1,9 +1,6 @@
 # luxubustream
 
-Public APK releases.
-
-This repository contains release files only.
-
+Ứng dụng xem IPTV và Youtube qua Android Auto.
 =============================================
 
 - Tải bản mới nhất tại đây: https://github.com/luxubuok/luxubustream/releases
