@@ -1,4 +1,4 @@
-# luxubustream
+# Luxubu Stream
 
 Ứng dụng xem IPTV và Youtube qua Android Auto.
 =============================================
