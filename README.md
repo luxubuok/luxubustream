@@ -9,7 +9,7 @@
   
 =============================================
 
-Lưu ý nếu cài trực tiếp file apk xong mà không thấy trong Android Auto thì phải cài qua KingInstaller do từ Adnroid 13 hay 14 gì đó đã chặn các app cài từ bên ngoài không thông qua CH Play.
+Lưu ý nếu cài trực tiếp file apk xong mà không thấy trong Android Auto thì phải cài qua KingInstaller do các bản Adnroid mới đã hạn chế các app cài từ file apk bên ngoài không thông qua CH Play.
 
 =============================================
 
