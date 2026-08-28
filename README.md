@@ -3,7 +3,7 @@
 Ứng dụng xem IPTV và Youtube qua Android Auto.
 =============================================
 
-- Tải bản mới nhất tại đây: https://github.com/luxubuok/luxubustream/releases
+- Tải file apk bản mới nhất tại đây: https://github.com/luxubuok/luxubustream/releases
 - Báo lỗi tại đây: https://github.com/luxubuok/luxubustream/issues
 - Trao đổi, góp ý, đề xuất tính năng mới,... tại đây: https://github.com/luxubuok/luxubustream/discussions
   
