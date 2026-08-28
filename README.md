@@ -16,4 +16,4 @@ Lưu ý nếu cài trực tiếp file apk xong mà không thấy trong Android A
 
 =============================================
 
-Các kênh truyền hình IPTV có sẵn trên ứnd dụng được lấy từ dự án do cộng đồng chia sẻ tại https://github.com/iptv-org/iptv có thể hoạt động hoặc không, người dùng nên sử dụng các kênh của riêng mình từ file m3u cá nhân. Người dùng tự chịu trách nhiệm về các vấn đề bản quyền liên quan khi xem IPTV.
+Các kênh truyền hình IPTV có sẵn trên ứng dụng được lấy từ dự án do cộng đồng chia sẻ tại https://github.com/iptv-org/iptv có thể hoạt động hoặc không, người dùng nên sử dụng các kênh của riêng mình từ file m3u cá nhân. Người dùng tự chịu trách nhiệm về các vấn đề bản quyền liên quan khi xem IPTV.
